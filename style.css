@@ -92,3 +92,15 @@
         margin-top: 0;
     }
 }
+
+.titulo-historia{
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    font-size: 15px;
+}
+
+.historia{
+    font-size: 12px;
+    margin: 15px;
+}
